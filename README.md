@@ -1,1 +1,1 @@
-# How to program goolge server with javascript, how to schedule google calendar
+# How to code goolge server with javascript, how to schedule google calendar
